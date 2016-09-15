@@ -12,7 +12,9 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 ## Apps
 
 * [Flipkart Lite](http://www.flipkart.com)
+* [Housing Go](http://www.housing.com)
 * [Chrome Developer Summit](https://developers.google.com/)
+* [Google I/O](https://events.google.com/io2016/)
 * [Dev.Opera](https://dev.opera.com/)
 * [AirHorner](https://airhorner.com/)
 * [Medium](https://medium.com/)
@@ -49,6 +51,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [Anonymous Chat](https://anonymouschat.in)
 * [chromestatus](https://www.chromestatus.com/features)
 * [SplittyPie](https://splittypie.com)
+* [Colosseum](https://naramsim.github.io/Colosseum/)
 
 ## Tutorials
 
@@ -76,6 +79,7 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [IndexedDB, WebSQL, LocalStorage – what blocks the DOM?](https://nolanlawson.com/2015/09/29/indexeddb-websql-localstorage-what-blocks-the-dom/)
 * [Say Hello to Offline First](http://hood.ie/blog/say-hello-to-offline-first.html)
 * [You’re Missing the Point of Server-Side Rendered JavaScript Apps](http://tomdale.net/2015/02/youre-missing-the-point-of-server-side-rendered-javascript-apps/)
+* [Swift Migration to Progressive Web App](https://medium.com/engineering-housing/progressing-mobile-web-fac3efb8b454)
 
 ## Videos
 
@@ -147,4 +151,3 @@ _Source:_ [Google Developers - Progressive Web Apps](https://developers.google.c
 * [`fetch-manifest-json`](https://github.com/hemanth/fetch-manifest-json): Fetch the `mainfest.json` from an URL.
 * [`manifest-json`](https://www.npmjs.com/package/manifest-json): CLI tool for creating `mainfest.json`.
 * [`PWAify`](https://github.com/vladikoff/PWAify): CLI tool to convert your PWA into a cross-platform desktop app.
-* [`offline-plugin`](https://github.com/NekR/offline-plugin): Offline plugin (ServiceWorker, AppCache) for webpack.
